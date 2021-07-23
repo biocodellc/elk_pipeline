@@ -1,4 +1,3 @@
-# OntoPilot: Software for Ontology Development and Deployment
+# elk_pipeline
 
-OntoPilot is software designed to simplify and accelerate the tasks of developing ontologies, managing public ontology releases, and deploying ontologies in data ingest pipelines.  Full documentation for OntoPilot, including a much more detailed description of what OntoPilot is and what it can do, is available at the [OntoPilot wiki](../../wiki).
-
+This software that is nearly entirely derived from OntoPilot (https://github.com/stuckyb/ontopilot).   elk_pipeline reproduces just that portion of ontopilot which implements a modified elk reasoner of ontopilot and contains additional jaxb libraries to run the software on newer releases of java.
